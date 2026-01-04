@@ -1,27 +1,27 @@
-# E-haute | 专业平板ODM解决方案提供商
+# E-haute | Professional Tablet ODM Solution Provider
 
 ![E-haute Banner](https://www.e-haute.com/wp-content/uploads/2025/12/contact-e-haute-1024x576.webp)
 
-## 关于我们
-E-haute是一家专注于**企业级定制平板ODM（原始设计制造）** 的高科技企业，拥有10+年硬件设计与生产经验，为零售、医疗、物流等行业提供端到端的平板定制解决方案。
+## About Us
+E-haute is a high-tech enterprise specializing in **enterprise-level custom tablet ODM (Original Design Manufacturing)**. With over 10 years of experience in hardware design and production, we provide end-to-end custom tablet solutions for industries such as retail, healthcare, and logistics.
 
-## 核心业务
-- 📱 **定制平板ODM服务**：从硬件原型设计到量产的全流程定制
-- 🏭 **规模化生产**：严格的品控体系，支持小批量试产与大批量交付
-- 🛠️ **行业定制化**：针对不同场景定制处理器、显示屏、接口等硬件配置
-- 📊 **成本优化**：端到端服务模式，降低客户产品上市时间与成本
+## Core Business
+- 📱 **Custom Tablet ODM Services**: Full-process customization from hardware prototype design to mass production
+- 🏭 **Large-Scale Production**: Strict quality control system, supporting small-batch trial production and mass delivery
+- 🛠️ **Industry Customization**: Customize processors, displays, I/O ports and other hardware configurations for different scenarios
+- 📊 **Cost Optimization**: End-to-end service model to reduce customers' time-to-market and maximize ROI
 
-## 核心优势
-| 优势维度 | 详情 |
-|----------|------|
-| 技术经验 | 10+年平板ODM行业积累，核心团队来自头部硬件厂商 |
-| 质量控制 | ISO9001认证，全流程质检，不良率低于0.5% |
-| 交付能力 | 常规订单7-15天交付，加急订单3-5天响应 |
-| 定制灵活 | 支持从外观、硬件到系统的全维度定制 |
+## Core Advantages
+| Advantage Dimension | Details |
+|---------------------|---------|
+| Technical Experience | Over 15 years of accumulation in the tablet ODM industry, with core team from leading hardware manufacturers |
+| Quality Control | ISO9001 certified, full-process quality inspection, defect rate less than 0.5% |
+| Delivery Capability | Regular orders delivered in 7-15 days, urgent orders responded to in 3-5 days |
+| Customization Flexibility | Supports full-dimensional customization from appearance, hardware to system |
 
-## 联系我们
-- 官网：[https://www.e-haute.com](https://www.e-haute.com)
-- 定制方案咨询：frank.wang@e-haute.com
+## Contact Us
+- Official Website: [https://www.e-haute.com](https://www.e-haute.com)
+- Custom Solution Consultation: frank.wang@e-haute.com
 
 ---
 
