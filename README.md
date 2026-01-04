@@ -1,2 +1,28 @@
-# tablet.github.io
-E-haute is a professional tablet pc manufacturer, ODM specialist, trusted global supplier with its own factory.
+# E-haute | 专业平板ODM解决方案提供商
+
+![E-haute Banner](https://www.e-haute.com/wp-content/uploads/2025/12/contact-e-haute-1024x576.webp)
+
+## 关于我们
+E-haute是一家专注于**企业级定制平板ODM（原始设计制造）** 的高科技企业，拥有10+年硬件设计与生产经验，为零售、医疗、物流等行业提供端到端的平板定制解决方案。
+
+## 核心业务
+- 📱 **定制平板ODM服务**：从硬件原型设计到量产的全流程定制
+- 🏭 **规模化生产**：严格的品控体系，支持小批量试产与大批量交付
+- 🛠️ **行业定制化**：针对不同场景定制处理器、显示屏、接口等硬件配置
+- 📊 **成本优化**：端到端服务模式，降低客户产品上市时间与成本
+
+## 核心优势
+| 优势维度 | 详情 |
+|----------|------|
+| 技术经验 | 10+年平板ODM行业积累，核心团队来自头部硬件厂商 |
+| 质量控制 | ISO9001认证，全流程质检，不良率低于0.5% |
+| 交付能力 | 常规订单7-15天交付，加急订单3-5天响应 |
+| 定制灵活 | 支持从外观、硬件到系统的全维度定制 |
+
+## 联系我们
+- 官网：[https://www.e-haute.com](https://www.e-haute.com)
+- 定制方案咨询：frank.wang@e-haute.com
+
+---
+
+*© 2026 E-haute. All rights reserved.*
